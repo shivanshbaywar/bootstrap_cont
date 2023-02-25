@@ -1,0 +1,13 @@
+.img{
+    height: 50rem;
+}
+.pagewidth, .form, .table1{
+    margin-left: 13%;
+    margin-right: 13%;
+}
+.containerMain{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
